@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: My CV
-description: To look forward a job
+description: Looking for a job
+@import "{{ avatar.png }}"
